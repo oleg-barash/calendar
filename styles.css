@@ -1,0 +1,19 @@
+#days li.active{
+    color: #c9302c;
+}
+
+.note label{
+    display: inline;
+}
+
+.note input{
+    display: none;
+}
+
+.note.editing label{
+    display: none;
+}
+
+.note.editing input{
+    display: inline;
+}
